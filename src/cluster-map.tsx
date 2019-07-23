@@ -1,5 +1,5 @@
 import React, { ReactNode, ReactElement } from 'react';
-import { StyleSheet, StyleProp, ViewProps } from 'react-native';
+import { StyleSheet, StyleProp, ViewStyle } from 'react-native';
 import GoogleMapView, {
   PROVIDER_GOOGLE,
   Region,
